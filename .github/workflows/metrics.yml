@@ -16,7 +16,7 @@ jobs:
           config_timezone: Asia/Kolkata
           committer_message: "chore: update metrics"
           template: classic
-          base: header, activity, community, repositories
+          base: header, repositories
           
           # Include private contributions
           repositories_affiliations: owner, collaborator, organization_member
@@ -35,7 +35,7 @@ jobs:
           plugin_languages_recent_load: 1000
           plugin_languages_recent_days: 365
 
-          # Activity and contributions
+          # Activity and contributions calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
@@ -44,16 +44,6 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
-          
-          # Code review and PR stats
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          plugin_followup_indepth: yes
 
           # Hide zero-value sections
           repositories_forks: no
