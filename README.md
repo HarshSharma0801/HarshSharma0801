@@ -1,6 +1,8 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/HarshSharma0801"><img src="https://img.shields.io/badge/status-active-brightgreen.svg"></a>
+    <a href="https://github.com/pulls?q=is%3Aclosed+author%3AHarshSharma0801"><img src="https://img.shields.io/badge/Pull%20Requests-482%2B-success?style=flat&logo=github"></a>
+    <a href="https://github.com/HarshSharma0801"><img src="https://img.shields.io/badge/Grade-A++-brightgreen?style=flat&logo=github"></a>
     <a href="https://github.com/HarshSharma0801/HarshSharma0801/graphs/contributors"><img src="https://img.shields.io/github/contributors/HarshSharma0801/HarshSharma0801?color=blue"></a>
     <a href="https://github.com/HarshSharma0801?tab=followers"><img src="https://img.shields.io/github/followers/HarshSharma0801?label=Followers&style=social"></a>
     <a href="https://github.com/HarshSharma0801/HarshSharma0801/stargazers"><img src="https://img.shields.io/github/stars/HarshSharma0801/HarshSharma0801.svg?logo=github"></a>
@@ -51,7 +53,7 @@ const harsh = {
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api?username=HarshSharma0801&show_icons=true&theme=radical&include_all_commits=true) | ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma0801&theme=radical&layout=compact) |
+| ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api?username=HarshSharma0801&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma0801&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSharma0801&theme=radical"></img>
 
@@ -60,6 +62,9 @@ const harsh = {
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- Metrics -->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma0801&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
