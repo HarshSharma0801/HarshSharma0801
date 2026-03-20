@@ -146,7 +146,7 @@ graph LR
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/HarshSharma0801/count.svg">  
+<img src="https://komarev.com/ghpvc/?username=HarshSharma0801&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -158,6 +158,3 @@ graph LR
 <p align="center">
   ⭐️ From <a href="https://github.com/HarshSharma0801">HarshSharma0801</a> | Made with ❤️ and ☕
 </p>
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*

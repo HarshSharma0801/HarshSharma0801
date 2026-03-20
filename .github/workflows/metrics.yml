@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: HarshSharma0801
           config_timezone: Asia/Kolkata
           committer_message: "chore: update metrics"
@@ -21,6 +21,7 @@ jobs:
           # Include private contributions
           repositories_affiliations: owner, collaborator, organization_member
           repositories_batch: 100
+          use_prebuilt_image: yes
           
           # Languages and coding activity
           plugin_languages: yes
@@ -70,4 +71,3 @@ jobs:
 
           # Hide zero-value sections
           repositories_forks: no
-          use_prebuilt_image: yes
