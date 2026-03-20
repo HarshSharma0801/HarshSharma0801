@@ -19,13 +19,55 @@
 
 ```typescript
 const harsh = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-    expertise: ["Web Development", "AI/ML", "DevOps", "Mobile Development"],
-    currentFocus: "Building end-to-end scalable applications",
-    lifePhilosophy: "Code, Learn, Repeat 🔄"
+    role: "Builder (Anything)",
+    expertise: [
+        "Full Stack Development",
+        "AI/ML Engineering", 
+        "Cloud Architecture & DevOps",
+        "Mobile Application Development",
+        "System Design & Scalability"
+    ],
+    specialization: [
+        "Microservices Architecture",
+        "LLM Integration & AI Solutions",
+        "CI/CD Pipeline Automation",
+        "Cross-Platform Mobile Apps"
+    ],
+    currentFocus: "Building production-grade scalable systems with AI integration",
+    philosophy: "Architect. Build. Scale. Repeat. 🚀"
 };
 ```
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3AHarshSharma0801">
+    <img src="https://img.shields.io/badge/Total%20PRs-482%2B-blue?style=for-the-badge&logo=github" alt="Total PRs"/>
+  </a>
+  <a href="https://github.com/search?q=author%3AHarshSharma0801&type=commits">
+    <img src="https://img.shields.io/badge/Total%20Commits-1000%2B-green?style=for-the-badge&logo=git" alt="Total Commits"/>
+  </a>
+  <a href="https://github.com/HarshSharma0801?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-50%2B-orange?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/issues?q=author%3AHarshSharma0801">
+    <img src="https://img.shields.io/badge/Issues%20Created-100%2B-red?style=for-the-badge&logo=github" alt="Issues"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HarshSharma0801">
+    <img src="https://img.shields.io/badge/Code%20Reviews-200%2B-purple?style=for-the-badge&logo=github" alt="Code Reviews"/>
+  </a>
+  <a href="https://github.com/HarshSharma0801">
+    <img src="https://img.shields.io/badge/Contributions-Daily-brightgreen?style=for-the-badge&logo=github" alt="Contributions"/>
+  </a>
+  <a href="https://github.com/HarshSharma0801">
+    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blueviolet?style=for-the-badge&logo=clockify" alt="Experience"/>
+  </a>
+</p>
 
 ---
 
@@ -51,20 +93,17 @@ const harsh = {
 ![HarshSharma0801's github activity graph](https://raw.githubusercontent.com/HarshSharma0801/HarshSharma0801/output/github-contribution-grid-snake.svg)
 
 <!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api?username=HarshSharma0801&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![HarshSharma0801's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma0801&theme=radical&layout=compact) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshSharma0801&theme=radical&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSharma0801&theme=radical"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshSharma0801&theme=radical&hide_border=true"></img>
 
 <!-- dark snake -->
 ![HarshSharma0801's github activity graph](https://raw.githubusercontent.com/HarshSharma0801/HarshSharma0801/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!-- Metrics -->
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma0801&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
