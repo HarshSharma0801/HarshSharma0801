@@ -105,6 +105,8 @@ const harsh = {
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshSharma0801&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
