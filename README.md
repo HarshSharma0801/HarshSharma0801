@@ -13,8 +13,6 @@
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Sharma;Full+Stack+Developer;AI+%26+DevOps+Enthusiast;Mobile+App+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
-
 ## 🚀 About Me
 
 ```typescript
